@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "AiolosOT",
 	"newClientUrl" : "https://github.com/feliphechaves/aioloslauncher/releases/download/aiolosot-1.0/AiolosOT.zip",
 	"clientExecutable": "client.exe"
 }
